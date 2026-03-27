@@ -1,0 +1,3 @@
+This project entails developing a console-based booking system named DropMe™ for the imaginary island nation "The Kingdom of Miranda." It allows users to inquire travel prices between cities, include special discounts, and create invoices automatically. The program calculates minimum traveling fares between five major cities and allows users to select vehicle types Trishaw (default), 
+Car or Van with price multipliers based on each. This system is designed to work terminal commands and it does not include any user interface. 
+The purpose of this coursework is to show the application of programming skills learned during the course of the module to solve a real world problem inspired using simple, clean, and efficient code.
